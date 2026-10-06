@@ -1,0 +1,11 @@
+{
+  "remote_agent_runtime_id": "None",
+  "deployment_timestamp": "None",
+  "pending_operation": {
+    "operation_name": "projects/619686471199/locations/us-central1/reasoningEngines/242279861081604096/operations/8840045436887629824",
+    "project": "project-b9722dad-d733-4eee-9aa",
+    "location": "us-central1",
+    "deployment_target": "agent_runtime",
+    "started_at": "2026-10-06T19:16:12.466428+00:00"
+  }
+}
